@@ -1,6 +1,6 @@
-# vue2demo
+# vue2-date-picker
 
-> A Vue.js project
+> vue2 date picker
 
 ## Build Setup
 
