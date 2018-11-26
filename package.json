@@ -1,7 +1,7 @@
 {
-  "name": "vue2demo",
+  "name": "vue2-date-picker",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "vue2 date picker",
   "author": "TabTang <jiangtao213@163.com>",
   "private": true,
   "scripts": {
